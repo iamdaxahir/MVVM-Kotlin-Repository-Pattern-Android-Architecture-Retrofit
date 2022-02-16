@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinRepositoryPattern</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fork">Fork</string>
+    <string name="watchers">Watchers</string>
+    <string name="star">Star</string>
+    <string name="users">Users</string>
+    <string name="public_repo">Public Repo</string>
+</resources>
