@@ -54,7 +54,11 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 You are welcome to contribute for this project optimizations and refactors, performance improvements!
 ## 🚀 About Me
-I'm a full Android applicaiton developer.
+👋 Hi, I’m @iamdaxahir
+👀 I’m interested in ...Android mobile application development and project managment
+🌱 I’m currently learning Jetpack Compose
+💞️ I’m looking to collaborate on design and development of mobile application.
+📫 How to reach me ... ahirdashrath.cs@gmail.com
 
 
 ## License
