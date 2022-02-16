@@ -45,7 +45,7 @@ You can run this project in Android studio.
 ## Screenshots
 
 ![User List](https://github.com/iamdaxahir/MVVM-Kotlin-Repository-Pattern-Android-Architecture-Retrofit/blob/master/Screenshot_1644763973.jpg)
-![User Detail](https://github.com/iamdaxahir/MVVM-Kotlin-Repository-Pattern-Android-Architecture-Retrofit/blob/master/git_image_2.jpg)
+![User Detail](https://github.com/iamdaxahir/MVVM-Kotlin-Repository-Pattern-Android-Architecture-Retrofit/blob/master/git_image_2%20(1).jpg)
 
 
 ## Optimizations
